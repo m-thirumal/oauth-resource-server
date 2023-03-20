@@ -26,4 +26,5 @@ public class AuthenticationEvent {
 		logger.debug("Success login event for  {} ", loginUser);
 	
     }
+	
 }
